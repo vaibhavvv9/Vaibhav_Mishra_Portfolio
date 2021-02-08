@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Vaibhav Mishra",
+    "occupation": "Full Stack Developer & Competitive Programmer",
+    "description": "I like dabbling in various parts of frontend development and like to learn about new technologies, read technical article or play sports in my free time",
+    "image": "IG_Sonny.jpeg",
+    "bio": "I am Vaibhav, a B. Tech  3rd Year CSE Student at IIIT Gwalior, India. I have good knowledge of data structures and algorithms and have few projects also in the field of web development(MERN stack). I also have two months of internship experience as a full stack developer. Currently I'm looking for an Summer Internship 2021 in the field of Software Development",
+    "contactmessage": "Get in touch with me on given Social Accounts",
+    "email": "vaibhavgood9@gmail.com",
+    "phone": "+91 8858936477",
+    "address": {
+      "street": "481 LIG Vaishnavi Vihar Jarauli Phase ",
+      "city": "Kanpur",
+      "state": "India",
+      "zip": "208027"
+    },
+
+    "resumedownload": "https://drive.google.com/file/d/1C27AV4Pc0CTRCBIt95nfzAPmhpf3fM-o/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vaibhav.mishra.5494360",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vaibhavmishra09/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vaibhavvv9",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/vaibhavvv9/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My expertise level in skills in the various field are given below",
+    "education": [
+      {
+        "school": "Indian Institute of Information & Technology Gwalior",
+        "degree": "Bachelors in  Computer Science",
+        "graduated": "May 2022",
+        "description": "Placement and Class Representative of Batch of 2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "Prographer",
+        "title": "Full Stack Developer Intern",
+        "years": "May 2020 - July 2020",
+        "description": "Worked and Collaborated on Prographer app and website  which allows the clients to automatically create, personalize, and publish designs using the latest AI technology.Actualized the two projects using ReactJS for frontend, and NodeJS & Express server on backend, with hosting done on AWS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "75%"
+      },
+      {
+        "name": "C++",
+        "level": "95%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+
+      {
+        "name": "Node.JS",
+        "level": "75%"
+      },
+      {
+        "name": "Node.JS",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Movie Booking & Recommendation",
+        "category": "MERN Stack based web based app",
+        "image": "netflix-clone.jpeg",
+        "url": "https://m-book-movies.herokuapp.com/"
+      },
+      {
+        "title": "Online Examination System",
+        "category": "MERN Stack based web based app",
+        "image": "tiktok-mern.png",
+        "url": "https://github.com/vaibhavvv9/minorproject-frontend"
+      },
+      {
+        "title": "Transport Expenditure System",
+        "category": "Object Oriendted Programming",
+        "image": "facebook-clone.png",
+        "url": "https://github.com/vaibhavvv9/Transportation-Management"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vaibhav has always been hard working , punctual and inquistive during his internship period.",
+        "user": "Khushboo Kumari,Prographer"
+      },
+      {
+        "text": "Vaibhav has always been passionate towards the work.He has great knowledge in React and I wish him good luck for future endeavours.",
+        "user": "Karan Bajaj , Prographer"
+      }
+    ]
+  }
+}
