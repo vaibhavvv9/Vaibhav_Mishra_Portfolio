@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/main.e1cf473b.chunk.js",
+    "main.js.map": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/main.e1cf473b.chunk.js.map",
+    "runtime-main.js": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/runtime-main.b70e121d.js",
+    "runtime-main.js.map": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/runtime-main.b70e121d.js.map",
+    "static/js/2.d0e809b4.chunk.js": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/2.d0e809b4.chunk.js",
+    "static/js/2.d0e809b4.chunk.js.map": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/2.d0e809b4.chunk.js.map",
+    "index.html": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/index.html",
+    "precache-manifest.a704bfc573d38b82c4a9bdb5d8c2617b.js": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/precache-manifest.a704bfc573d38b82c4a9bdb5d8c2617b.js",
+    "service-worker.js": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.d0e809b4.chunk.js.LICENSE.txt": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/js/2.d0e809b4.chunk.js.LICENSE.txt",
+    "static/media/codechef.svg": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/media/codechef.e5d1e75e.svg",
+    "static/media/codeforces.svg": "/vaibhavvv9/Vaibhav_Mishra_Portfolio/static/media/codeforces.f5051680.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b70e121d.js",
+    "static/js/2.d0e809b4.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.e1cf473b.chunk.js"
+  ]
+}
